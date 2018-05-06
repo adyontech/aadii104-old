@@ -12,7 +12,7 @@ deploy:
   local_dir: build
   target-branch: master
   keep-history: true
-  email: nawazishaliejaz@gmail.com
-  name: Nawazish Ali
+  email: sharmaadi104@gmail.com
+  name: Aditya Sharma
   on:
     branch: develop-simple

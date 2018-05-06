@@ -11,7 +11,7 @@ let generate = function () {
     width: 0
   };
   pdf.addHTML(document.body, margins.top, margins.left, {}, function () {
-    pdf.save(`Nawazish's CV`);
+    pdf.save(`aadii104's CV`);
   });
 };
 
